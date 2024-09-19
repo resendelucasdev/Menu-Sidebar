@@ -13,6 +13,8 @@ Uso de ícones: Cada item do menu é acompanhado por ícones (com as classes fas
 
 Animação simples: Quando o usuário passa o mouse sobre os itens do menu, a cor de fundo muda suavemente, melhorando a usabilidade.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Inglês (EN):
 
 This code implements a left sidebar menu using HTML and CSS. It follows a simple and modern layout with the following functionality:
@@ -26,3 +28,5 @@ Responsive styling: The sidebar has a fixed width of 250px and takes up the full
 Icon usage: Each menu item is accompanied by icons (using fas classes from FontAwesome), enhancing the visual understanding of the links.
 
 Simple hover animation: When the user hovers over the menu items, the background color changes smoothly, improving usability.
+
+
